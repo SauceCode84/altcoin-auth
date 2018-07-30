@@ -6,7 +6,9 @@
       "sourceMap": true,
       "outDir": "./dist",
       "emitDecoratorMetadata": true,
-      "experimentalDecorators": true
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true
   },
   "exclude": [
     "node_modules",
